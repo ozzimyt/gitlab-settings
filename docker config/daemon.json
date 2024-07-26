@@ -1,0 +1,10 @@
+{
+// какие-то настройки...
+  "experimental": false,
+  /*
+  insecure-registries обязателен 
+  */
+  "insecure-registries": [ 
+    "gitlab.domain.local:5050" 
+  ]
+}

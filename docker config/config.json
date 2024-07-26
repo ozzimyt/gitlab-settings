@@ -1,0 +1,9 @@
+/*
+конфиг docker desktop via windows, логиниться надо как указано в
+gitlab.rb: 'docker login gitlab.domain.local:5050'
+*/
+{
+	"auths": {
+		"gitlab.domain.local:5050": {}
+	}
+}
